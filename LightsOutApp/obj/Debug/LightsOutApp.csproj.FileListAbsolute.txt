@@ -1,0 +1,10 @@
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\obj\Debug\LightsOutApp.csprojResolveAssemblyReference.cache
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\obj\Debug\LightsOutApp.Properties.Resources.resources
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\obj\Debug\LightsOutApp.csproj.GenerateResource.Cache
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\obj\Debug\LightsOutApp.csproj.CoreCompileInputs.cache
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\bin\Debug\LightsOutApp.exe.config
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\bin\Debug\LightsOutApp.exe
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\bin\Debug\LightsOutApp.pdb
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\obj\Debug\LightsOutApp.exe
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\obj\Debug\LightsOutApp.pdb
+C:\Users\Luk\source\repos\LightsOutApp\LightsOutApp\obj\Debug\LightsOutApp.Game.resources
