@@ -5,7 +5,7 @@ using System.Windows.Forms;
 namespace LightsOutApp.Tests
 {
     [TestFixture]
-    public class LightTest
+    public class GameProcessTest
     {
         
         [Test]

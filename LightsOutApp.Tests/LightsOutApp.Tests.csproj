@@ -55,7 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Helpers\TestUtils.cs" />
-    <Compile Include="LightTest.cs" />
+    <Compile Include="GameProcessTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

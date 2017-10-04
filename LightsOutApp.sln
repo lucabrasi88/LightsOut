@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.10
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsOutApp", "LightsOutApp\LightsOutApp.csproj", "{64D85462-640B-46F9-9FEF-EB566EE2F46E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightsOutApp.Tests", "LightsOutApp.Tests\LightsOutApp.Tests.csproj", "{93968969-F356-4D50-AEBD-7AFB8EFD3F7B}"
